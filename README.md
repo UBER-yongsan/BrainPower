@@ -3,4 +3,5 @@ Brain Power! Solve the quiz by moving your body and the game tracks you with Goo
 1. install mediapipe, opencv, matplotlib, pygame through pip
 2. start the gamet3
 3. Warning: All questions are written in Korean.
-\n🧑🏻‍💻 Made by Jiwoong Yang
+
+-🧑🏻‍💻 Made by Jiwoong Yang
